@@ -38,11 +38,11 @@ We'll cover every commonly asked sorting technique — both simple and advanced:
 
 ### 🟢 Beginner-Level (Easy to Visualize)
 
-| Algorithm       | Key Idea                              |
-|----------------|----------------------------------------|
-| Bubble Sort     | Repeatedly swap adjacent elements      |
-| Selection Sort  | Select min/max and place in right spot |
-| Insertion Sort  | Insert elements into their sorted position |
+| Algorithm      | Key Idea                                   |
+| -------------- | ------------------------------------------ |
+| Bubble Sort    | Repeatedly swap adjacent elements          |
+| Selection Sort | Select min/max and place in right spot     |
+| Insertion Sort | Insert elements into their sorted position |
 
 ---
 
